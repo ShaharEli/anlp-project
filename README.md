@@ -14,3 +14,12 @@
      - Visualization of key data distributions (e.g., age, gender, post length).
      - Hypothesis testing and correlation analysis to identify significant features.
      - Preparation of the data for further modeling.
+     
+3. **Gemma_2b_Training.ipynb**
+   - **Purpose**: This notebook is designed to train the Gemma 2b model to model the community verdicts on the posts. It covers data preprocessing, model training, and evaluation.
+
+4. **Llama_Training.ipynb**
+   - **Purpose**: This notebook is designed to train the Gemma 2b model to model the community verdicts on the posts. It covers data preprocessing, model training, and evaluation.
+
+5. **Mistral_Training.ipynb**
+   - **Purpose**: This notebook is designed to train the Gemma 2b model to model the community verdicts on the posts. It covers data preprocessing, model training, and evaluation.
