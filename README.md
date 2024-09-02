@@ -19,7 +19,7 @@
    - **Purpose**: This notebook is designed to train the Gemma 2b model to model the community verdicts on the posts. It covers data preprocessing, model training, and evaluation.
 
 4. **Llama_Training.ipynb**
-   - **Purpose**: This notebook is designed to train the Gemma 2b model to model the community verdicts on the posts. It covers data preprocessing, model training, and evaluation.
+   - **Purpose**: This notebook is designed to train the Llama 3 8b model to model the community verdicts on the posts. It covers data preprocessing, model training, and evaluation.
 
 5. **Mistral_Training.ipynb**
-   - **Purpose**: This notebook is designed to train the Gemma 2b model to model the community verdicts on the posts. It covers data preprocessing, model training, and evaluation.
+   - **Purpose**: This notebook is designed to train the Mistral-7b-0.3 model to model the community verdicts on the posts. It covers data preprocessing, model training, and evaluation.
